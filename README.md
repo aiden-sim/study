@@ -10,7 +10,7 @@
 - [Java8inAction](https://github.com/simjunbo/Java8inAction/tree/master/doc)
 </td>
 <td width="30%">
-<a href="https://github.com/simjunbo/Java8inAction/tree/master/doc">
+<a href="https://github.com/simjunbo/SpringInAction/tree/master/doc">
 <img src="http://postfiles10.naver.net/MjAxODA3MDNfMjE4/MDAxNTMwNTQ1NjA5NjI3.l2lUE99NS_OBhhJZldi_GPC-iHMNLdsOs9zcVD57RyIg.k65VH_7TIAc2vWDDdQlibVqqIEbs2DqwrwibrpTHnj0g.JPEG.simjunbo/image_111581631530545529265.jpg?type=w773">
 </img>
 </a>
