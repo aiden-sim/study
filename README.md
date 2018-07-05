@@ -47,7 +47,7 @@
 <img src="http://postfiles2.naver.net/MjAxODA3MDZfMTM3/MDAxNTMwODA0NzUzMzg0.xrNkvk8BJR4XYRZqNZmJzL-EBRAVWMAIJofqaXfqhVIg.YxDzNc5N0u2kkk6NHTRPPYMRi0sd_FwSfzSzA4M6K1Ug.JPEG.simjunbo/HTTP.jpg?type=w773">
 </img>
 
-- [HTTP 완벽 가이드]()
+- HTTP 완벽 가이드
 </td>
 </tr>
 </table>
