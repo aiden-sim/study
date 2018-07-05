@@ -44,10 +44,8 @@
 - [JVMPerformanceOptimizing](https://github.com/simjunbo/JVMPerformanceOptimizing/tree/master/doc)
 </td>
 <td width="33%">
-<a href="">
 <img src="http://postfiles2.naver.net/MjAxODA3MDZfMTM3/MDAxNTMwODA0NzUzMzg0.xrNkvk8BJR4XYRZqNZmJzL-EBRAVWMAIJofqaXfqhVIg.YxDzNc5N0u2kkk6NHTRPPYMRi0sd_FwSfzSzA4M6K1Ug.JPEG.simjunbo/HTTP.jpg?type=w773">
 </img>
-</a>
 
 - [HTTP 완벽 가이드]()
 </td>
