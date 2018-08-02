@@ -19,7 +19,7 @@
 </td>
 <td width="33%">
 <a href="https://github.com/simjunbo/core-study-record/blob/master/%EC%8A%A4%ED%94%84%EB%A7%81%205.0%20%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4%202-e/keyword.md">
-<img src="http://postfiles5.naver.net/MjAxODA3MDNfNzIg/MDAxNTMwNTQ1NTI4OTM4.U57hnvk2ZyStcEudYRq2ol0hsjIroNqh7DlvsaDWJLAg.XlsToKr4_W3DEEBOvktjoMYOLy5PeXXMVbOA_CAYaFQg.PNG.simjunbo/spring5.png?type=w773">
+<img src="http://postfiles10.naver.net/MjAxODA3MDZfMTQz/MDAxNTMwODA0NzUzNDI4.QeTnlwDA9j-BqvQ8p4-8MQO3aRIOfxLl7ap0ELpvMb8g.inS9tYBLCixDjQ6gUUTZknfgKdcI5RSfIqWdhz_JqnAg.PNG.simjunbo/spring5.png?type=w773">
 </img>
 </a>
 
