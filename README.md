@@ -29,7 +29,7 @@
 <tr>
 <td width="33%">
 <a href="https://github.com/simjunbo/CleanSoftware/tree/master/doc">
-<img src="http://postfiles10.naver.net/MjAxODA3MDZfMTQz/MDAxNTMwODA0NzUzNDI4.QeTnlwDA9j-BqvQ8p4-8MQO3aRIOfxLl7ap0ELpvMb8g.inS9tYBLCixDjQ6gUUTZknfgKdcI5RSfIqWdhz_JqnAg.PNG.simjunbo/spring5.png?type=w773">
+<img src="http://postfiles2.naver.net/MjAxODA3MDZfMjEw/MDAxNTMwODA0NzUzMzc3._H7aZkZnVlErcO2yscwNwajYtv7TsWU3QTum-xoYfYUg.VMTy7QuQTmLouPxOLbWhtNv6I0xkjC-AA6kXplpmfP0g.JPEG.simjunbo/cleansoftware.jpg?type=w773">
 </img>
 </a>
 
