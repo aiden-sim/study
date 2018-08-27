@@ -52,12 +52,12 @@
 </tr>
 <tr>
 <td width="33%">
-<a href="https://github.com/simjunbo/Refactoring">
+<a href="https://github.com/simjunbo/Refactoring/tree/master/doc">
 <img src="http://postfiles14.naver.net/MjAxODA4MTNfMTg5/MDAxNTM0MDkxMjUwNzU2.0y0po8UThqdPZ7hU-SOxRKAFL89fGJRnPV9MCreJA44g.UfL3ZOOtKE3sYD4-hdjzJyDyfPbEQxcWrDV5qdqcjvog.JPEG.simjunbo/refactoring.jpg?type=w773">
 </img>
 </a>
 
-- [Refactoring](https://github.com/simjunbo/Refactoring)
+- [Refactoring](https://github.com/simjunbo/Refactoring/tree/master/doc)
 </td>
 <td width="33%">
 
