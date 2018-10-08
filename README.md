@@ -62,12 +62,12 @@
 - [Refactoring](https://github.com/simjunbo/Refactoring/tree/master/doc)
 </td>
 <td width="33%">
-<a href="https://github.com/simjunbo/DesignPattern/tree/master/doc">
+<a href="https://github.com/simjunbo/DesignPattern">
 <img src="http://postfiles15.naver.net/MjAxODA5MjdfMTQw/MDAxNTM4MDQ2MzEwMTk2.Oxlq236xhgIK3DKSWXhMFvybQNdN9DbDIXvtxM08AzIg.96Htc-3OxpuC0ocjAZcCl9ASZkG3ChZwlQ7ArGiWD18g.JPEG.simjunbo/designpattern.jpeg?type=w773">
 </img>
 </a>
 
-- [DesignPatter](https://github.com/simjunbo/DesignPattern/tree/master/doc)
+- [DesignPatter](https://github.com/simjunbo/DesignPattern)
 </td>
 <td width="33%">
 
