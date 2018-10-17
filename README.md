@@ -75,7 +75,7 @@
 </img>
 </a>
 
-- [DesignPatter](https://github.com/simjunbo/DesignPattern_MultiThread)
+- [DesignPatter(멀티 쓰레드)](https://github.com/simjunbo/DesignPattern_MultiThread)
 </td>
 </tr>
 </table>
