@@ -80,10 +80,13 @@
 </tr>
 <tr>
 <td width="33%">
+  -
 </td>
 <td width="33%">
+  -
 </td>
 <td width="33%">
+  -
 </td>
 </tr>
 </table>
