@@ -91,7 +91,7 @@
 <img src="http://postfiles7.naver.net/MjAxODExMTVfMTgy/MDAxNTQyMjEwOTM2OTIz.xr_kWfw8Hzh58ju7x51b9idBqA2Prm2DP7xGJ7wcMiMg.Ca-ZAxBZXaecRk_okbKt9Qq9CHUP2pJ_3PyDK_cAKx8g.JPEG.simjunbo/scrum.jpg?type=w773">
 </img>
 
-- [스크럼]
+- 스크럼
 </td>
 <td width="33%">
   -
