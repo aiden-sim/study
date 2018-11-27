@@ -85,7 +85,7 @@
 </img>
 </a>
 
-- [이펙티브 자바 3판](https://github.com/simjunbo/EffectiveJava3)
+- [이펙티브 자바 3판](https://github.com/simjunbo/EffectiveJava3/tree/master/doc)
 </td>
 <td width="33%">
 <img src="http://postfiles7.naver.net/MjAxODExMTVfMTgy/MDAxNTQyMjEwOTM2OTIz.xr_kWfw8Hzh58ju7x51b9idBqA2Prm2DP7xGJ7wcMiMg.Ca-ZAxBZXaecRk_okbKt9Qq9CHUP2pJ_3PyDK_cAKx8g.JPEG.simjunbo/scrum.jpg?type=w773">
