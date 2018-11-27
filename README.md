@@ -80,7 +80,7 @@
 </tr>
 <tr>
 <td width="33%">
-<a href="https://github.com/simjunbo/EffectiveJava3">
+<a href="https://github.com/simjunbo/EffectiveJava3/tree/master/doc">
 <img src="http://postfiles8.naver.net/MjAxODExMTFfMjk4/MDAxNTQxODYzMzkyMjQ0.myUoHBFrEGAny1WYjUn28YilpJyea1gqOaX685XM9i8g.bDhgn807USXuP_n8OiW9VrkFgp6ecZ0kKCrLyfe2lVIg.JPEG.simjunbo/effectivejava.jpg?type=w773">
 </img>
 </a>
