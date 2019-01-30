@@ -94,7 +94,11 @@
 - 스크럼
 </td>
 <td width="33%">
-  -
+<a href="https://github.com/simjunbo/EffectiveJava3/tree/master/doc">
+<img src="https://postfiles.pstatic.net/MjAxOTAxMzFfMzEg/MDAxNTQ4ODY1MTAyODg2.xAN1N_mk8q6acoyerStFkpdnWdHZ61opLnxyA-Ajc40g.ABd9wHqI8ZB2L21nlILhURwr-5hp-4CrGVNpLXqoTh8g.JPEG.simjunbo/ibatis.jpg?type=w773">
+</img>
+</a>
+- iBATISinAction
 </td>
 </tr>
 </table>
