@@ -99,7 +99,7 @@
 </img>
 </a>
 
-- iBATISinAction
+- [iBATISinAction](https://github.com/simjunbo/IbatisInAction/tree/master/doc)
 </td>
 </tr>
 </table>
