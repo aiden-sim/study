@@ -49,7 +49,7 @@
 </img>
 </a>
 
-- [Refactoring](https://github.com/simjunbo/HTTP)
+- [HTTP 완벽가이드](https://github.com/simjunbo/HTTP)
 </td>
 </tr>
 <tr>
