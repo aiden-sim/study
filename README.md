@@ -111,18 +111,13 @@
 
 - [DesignPatter(멀티 쓰레드)](https://github.com/simjunbo/DesignPattern_MultiThread)
 </td>
-</tr>
-<tr>
 <td width="33%">
 <a href="">
-<img src="![memcached redis](https://user-images.githubusercontent.com/7076334/53213257-92a2af00-368b-11e9-91b3-6bf72940f7fd.png)">
+<img src="https://user-images.githubusercontent.com/7076334/53213257-92a2af00-368b-11e9-91b3-6bf72940f7fd.png">
 </img>
 </a>
 
 - [Memcached와 Redis]()
-</td>
-<td width="33%">
-  -
 </td>
 <td width="33%">
   -
