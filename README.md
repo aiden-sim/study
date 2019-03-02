@@ -104,14 +104,6 @@
 </tr>
 
 <td width="33%">
-<a href="https://github.com/simjunbo/DesignPattern_MultiThread">
-<img src="http://postfiles2.naver.net/MjAxODEwMTdfMjE0/MDAxNTM5NzQ2NzA3NjAz.NshgK4ePCiEBbfhdNaqO7KSVWS7pgsKVU8y6RRQeglMg.tb4dEUoy6yaHjIRd7nbC2LkfoAEYhoYLIL18TEy5wOUg.PNG.simjunbo/designpattern_mutithred.png?type=w773">
-</img>
-</a>
-
-- [DesignPatter(멀티 쓰레드)](https://github.com/simjunbo/DesignPattern_MultiThread)
-</td>
-<td width="33%">
 <img src="https://user-images.githubusercontent.com/7076334/53213257-92a2af00-368b-11e9-91b3-6bf72940f7fd.png">
 </img>
 
