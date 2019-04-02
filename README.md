@@ -111,10 +111,9 @@
 - [Memcached와 Redis]()
 </td>
 <td width="33%">
-<a href="https://github.com/simjunbo/kafka">
 <img src="https://user-images.githubusercontent.com/7076334/54510507-ece41680-4990-11e9-8a5a-af2a07acd3bf.jpg">
 </img>
-</a>
+
 
 - [카프카,데이터플랫폼의 최강자](https://github.com/simjunbo/kafka)
 </td>
