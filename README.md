@@ -134,7 +134,7 @@
 </img>
 </a>
 
-- [자바 네트워크 소녀 Netty!](https://github.com/simjunbo/netty)
+- [자바 네트워크 소녀 Netty](https://github.com/simjunbo/netty)
 </td>
 <td width="33%">
 -
