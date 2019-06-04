@@ -146,7 +146,12 @@
 </td>
 </td>
 <td width="33%">
--
+<a href="https://github.com/simjunbo/jpa_programming">
+<img src="https://user-images.githubusercontent.com/7076334/58892872-05f79a80-872a-11e9-80d0-fe8efac2e41c.jpg">
+</img>
+</a>
+
+- [자바 ORM 표준 JPA ](https://github.com/simjunbo/jpa_programming)
 </td>
 </tr>
 </table>
