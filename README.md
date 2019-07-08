@@ -144,7 +144,6 @@
 
 - [자바 웹 프로그래밍 Next Step](https://github.com/simjunbo/javaweb_nextstep)
 </td>
-</td>
 <td width="33%">
 <a href="https://github.com/simjunbo/jpa_programming/tree/master/doc">
 <img src="https://user-images.githubusercontent.com/7076334/58892872-05f79a80-872a-11e9-80d0-fe8efac2e41c.jpg">
@@ -152,6 +151,22 @@
 </a>
 
 - [자바 ORM 표준 JPA ](https://github.com/simjunbo/jpa_programming/tree/master/doc)
+</td>
+</tr>
+<tr>
+<td width="33%">
+<a href="https://github.com/simjunbo/spring5">
+<img src="https://user-images.githubusercontent.com/7076334/60779541-1ad6ac00-a176-11e9-82fb-974918d96045.jpg">
+</img>
+</a>
+
+- [스프링5 레시피](https://github.com/simjunbo/spring5)
+</td>
+<td width="33%">
+-
+</td>
+<td width="33%">
+-
 </td>
 </tr>
 </table>
