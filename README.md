@@ -155,12 +155,12 @@
 </tr>
 <tr>
 <td width="33%">
-<a href="https://github.com/simjunbo/spring5">
+<a href="https://github.com/simjunbo/spring5/tree/master/doc">
 <img src="https://user-images.githubusercontent.com/7076334/60779541-1ad6ac00-a176-11e9-82fb-974918d96045.jpg">
 </img>
 </a>
 
-- [스프링5 레시피](https://github.com/simjunbo/spring5)
+- [스프링5 레시피](https://github.com/simjunbo/spring5/tree/master/doc)
 </td>
 <td width="33%">
 -
