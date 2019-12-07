@@ -163,7 +163,12 @@
 - [스프링5 레시피](https://github.com/simjunbo/spring5/tree/master/doc)
 </td>
 <td width="33%">
--
+<a href="https://github.com/simjunbo/rest_api">
+<img src="https://user-images.githubusercontent.com/7076334/70367026-97191b00-18df-11ea-8f56-75a7a1b9ed99.gif">
+</img>
+</a>
+
+- [REST API 디자인 규칙](https://github.com/simjunbo/rest_api)
 </td>
 <td width="33%">
 -
