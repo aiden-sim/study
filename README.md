@@ -183,7 +183,7 @@
 <tr>
 <td width="33%">
 <a href="https://github.com/simjunbo/clean_code">
-<img src="https://user-images.githubusercontent.com/7076334/99868480-28bf8c80-2c06-11eb-90ad-3ca0d3165498.jpg">
+<img src="https://user-images.githubusercontent.com/7076334/99868517-92d83180-2c06-11eb-97c9-68aa6bfb4c98.jpg">
 </img>
 </a>
 
