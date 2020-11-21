@@ -179,6 +179,28 @@
 - [클린 아키텍처](https://github.com/simjunbo/clean_architecture)
 </td>
 </tr>
+
+<tr>
+<td width="33%">
+<a href="https://github.com/simjunbo/clean_code">
+<img src="https://user-images.githubusercontent.com/7076334/99868480-28bf8c80-2c06-11eb-90ad-3ca0d3165498.jpg">
+</img>
+</a>
+
+- [클린 코드](https://github.com/simjunbo/clean_code)
+</td>
+<td width="33%">
+<a href="https://github.com/simjunbo/uml">
+<img src="https://user-images.githubusercontent.com/7076334/99868480-28bf8c80-2c06-11eb-90ad-3ca0d3165498.jpg">
+</img>
+</a>
+
+- [UML](https://github.com/simjunbo/uml)
+</td>
+<td width="33%">
+-
+</td>
+</tr>
 </table>
 
 
