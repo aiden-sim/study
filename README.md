@@ -168,10 +168,15 @@
 </img>
 </a>
 
-- [REST API 디자인 규칙](https://github.com/simjunbo/rest_api)
+- [REST API 디자인 규칙](https://github.com/simjunbo/clean_architecture)
 </td>
 <td width="33%">
--
+<a href="https://github.com/simjunbo/rest_api">
+<img src="https://user-images.githubusercontent.com/7076334/99868389-6b349980-2c05-11eb-8b63-a6f1ad10919f.jpg">
+</img>
+</a>
+
+- [클린 아키텍처](https://github.com/simjunbo/clean_architecture)
 </td>
 </tr>
 </table>
