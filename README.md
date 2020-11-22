@@ -168,7 +168,7 @@
 </img>
 </a>
 
-- [REST API 디자인 규칙](https://github.com/simjunbo/clean_architecture)
+- [REST API 디자인 규칙](https://github.com/simjunbo/rest_api)
 </td>
 <td width="33%">
 <a href="https://github.com/simjunbo/clean_architecture">
