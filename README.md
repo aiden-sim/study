@@ -94,12 +94,12 @@
 - 스크럼
 </td>
 <td width="33%">
-<a href="https://github.com/simjunbo/ibatis_in_action/tree/master/doc">
-<img src="https://postfiles.pstatic.net/MjAxOTAxMzFfMzEg/MDAxNTQ4ODY1MTAyODg2.xAN1N_mk8q6acoyerStFkpdnWdHZ61opLnxyA-Ajc40g.ABd9wHqI8ZB2L21nlILhURwr-5hp-4CrGVNpLXqoTh8g.JPEG.simjunbo/ibatis.jpg?type=w773">
+<a href="https://github.com/simjunbo/object">
+<img src="https://user-images.githubusercontent.com/7076334/139540095-0ab333e6-7743-42e3-a2b3-99dff4d6f114.jpeg">
 </img>
 </a>
 
-- [ibatis_in_action](https://github.com/simjunbo/ibatis_in_action/tree/master/doc)
+- [오브젝트](https://github.com/simjunbo/object)
 </td>
 </tr>
 <tr>
@@ -129,12 +129,12 @@
 </tr>
 <tr>
 <td width="33%">
-<a href="https://github.com/simjunbo/netty">
-<img src="https://user-images.githubusercontent.com/7076334/57382858-ac628580-71e8-11e9-8689-699d42bcef4f.jpg">
+<a href="https://github.com/simjunbo/gof">
+<img src="https://user-images.githubusercontent.com/7076334/139540002-0facabfb-ad28-46a5-a171-3271245c290e.jpeg">
 </img>
 </a>
 
-- [자바 네트워크 소녀 Netty](https://github.com/simjunbo/netty)
+- [GOF](https://github.com/simjunbo/gof)
 </td>
 <td width="33%">
 <a href="https://github.com/simjunbo/javaweb_nextstep">
